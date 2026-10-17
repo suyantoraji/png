@@ -1,0 +1,6 @@
+{
+  "name": "KromaClear - Hapus Background & Watermark Video Transparan HD",
+  "description": "Studio pemrosesan video untuk menghapus background statis, menghapus otomatis watermark & watermark diagonal, meningkatkan kualitas video ke HD, dan ekspor animasi transparan ke MOV & WebM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
